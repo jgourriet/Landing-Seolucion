@@ -1,6 +1,9 @@
 /* ----Start Stylesheet---- */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200&display=swap');
 /* ---- General Style---- */
+*{
+  font-family: 'Montserrat';
+}
 body {
   position: relative;
 }
@@ -9,7 +12,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
-  font-family: 'Montserrat';
 }
 
 textarea:focus,
