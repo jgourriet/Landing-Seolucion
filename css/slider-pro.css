@@ -4,8 +4,8 @@
 	margin: 0 auto;
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	height: 100vh;
 }
+
 
 .sp-slides-container {
 	position: relative;
@@ -27,13 +27,15 @@
 }
 
 .sp-image-container {
-	overflow: hidden;
+	overflow:hidden;
 }
 
 .sp-image {
 	position: relative;
 	display: block;
 	border: none;
+	width: 100%;
+	height: auto;
 }
 
 .sp-no-js {
