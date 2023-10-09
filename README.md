@@ -6,7 +6,7 @@ Author: [Joaquin Gourriet](https://github.com/jgourriet).
 
 Proyecto de 5 secciones totalmente adaptadas para escritorio, table y Mobil.
 
-![Landing-Template](https://res.cloudinary.com/dvpasesj3/image/upload/v1696870114/LandingSeo_y5vuzd.gif)
+!(https://res.cloudinary.com/dvpasesj3/image/upload/v1696870114/LandingSeo_y5vuzd.gif)
 
 
 
