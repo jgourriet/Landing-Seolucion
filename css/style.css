@@ -1453,7 +1453,7 @@ footer ul li a i {
     padding: 20px 0 0;
     position: fixed;
   }
-
+  
   .navbar-header {
     float: none;
     text-align: center;
@@ -1513,6 +1513,12 @@ footer ul li a i {
     margin-bottom: 60px;
     text-align: center;
   }
+  h2 span{
+    font-size: 40px;
+  }
+  .mts-testimonial-section h2 span {
+    font-size: 40px;
+  }
   .navbar-toggle {
     border: 1px solid #fff;
     margin-right: -200px;
@@ -1524,6 +1530,9 @@ footer ul li a i {
   flex-direction: row-reverse;
   width: 400px;
 
+}
+.mts-portfolio-filter-btn-group ul li a {
+ margin-bottom: 5px !important;
 }
   .navbar-toggle .icon-bar {
     border-radius: 1px;
